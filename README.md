@@ -3,7 +3,7 @@ ASSIGNMENT - 2
 
 *DATASET DESCRIPTION*
 
-RAW DATA
+**RAW DATA**
 
 Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 28-JAN-US	laptop	Dell	1000	30	Electronics
@@ -44,7 +44,7 @@ Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 
 *Attributes*: Product ID, Product Name, Brand Name, Quantity, Category, Price
 
-TASKS
+**TASKS**
 
 1. Handling Missing Values:
 
@@ -57,5 +57,9 @@ TASKS
 5. Number Formatting:
 
 6. Conditional Formatting:
+
+**COMPLETED DATASET**
+
+
 
 
