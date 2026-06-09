@@ -68,6 +68,10 @@ Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 
 ~ Inconsistent datas corrected.
 
+~ Errors deducted and corrected.
+
+~ Formulas used accordingly.
+
 
 **APPLIED FORMULAS**
 
