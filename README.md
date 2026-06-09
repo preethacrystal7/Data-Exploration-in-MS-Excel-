@@ -58,6 +58,19 @@ Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 
 6. Conditional Formatting:
 
+**Deliverables**:
+
+~ The Duplicates has been removed
+~
+
+**APPLIED FORMULAS**
+
+=Proper(trim(clean)))
+
+*Empty column* 
+=IF(ISBLANK()&," "&()
+
+
 **COMPLETED DATASET**
 
 
