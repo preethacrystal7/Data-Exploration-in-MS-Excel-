@@ -60,8 +60,14 @@ Product ID	Product Name	Brand Name	Price ($)	Quantity	Category
 
 **Deliverables**:
 
-~ The Duplicates has been removed
-~
+~ The Duplicates has been removed.
+
+~ Unique values kept.
+
+~ Missing values deducted.
+
+~ Inconsistent datas corrected.
+
 
 **APPLIED FORMULAS**
 
@@ -112,4 +118,14 @@ Product ID	Country	Product Name	Brand Name	Price ($)	Quantity	Total	Category
 <img width="1109" height="886" alt="image" src="https://github.com/user-attachments/assets/aaf0a381-e00d-456b-aaed-df40d63c4cc4" />
 
 
+**Conclusion**
 
+  This project helped in understanding and exploring more about data though Excel. It improved data exploration in analysing it through Microsoft Excel.
+  
+
+
+
+
+
+
+  
